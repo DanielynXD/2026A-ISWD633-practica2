@@ -1,20 +1,28 @@
 ### Crear contenedor de Postgres sin que exponga los puertos. Usar la imagen: postgres:15-alpine3.21
-# COMPLETAR
+<img width="1521" height="231" alt="image" src="https://github.com/user-attachments/assets/34066608-f3f0-468d-a4a1-acb6c2c56726" />
+
 
 ### Crear un cliente de postgres. Usar la imagen: dpage/pgadmin4
+<img width="1453" height="678" alt="image" src="https://github.com/user-attachments/assets/48db72fb-45a0-4fc2-8b53-dd346ed85c73" />
+
+
 
 # COMPLETAR
 
 La figura presenta el esquema creado en donde los puertos son:
-- a: (completar con el valor)
-- b: (completar con el valor)
-- c: (completar con el valor)
+- a: 8080
+- b: 80
+- c: 5432
 
 ![Imagen](esquema-2-ejercicio.PNG)
 
 ## Desde el cliente
 ### Acceder desde el cliente al servidor postgres creado.
-# COMPLETAR CON UNA CAPTURA DEL LOGIN
+
+<img width="1898" height="962" alt="image" src="https://github.com/user-attachments/assets/304b49bb-772f-43ec-9043-81f9b736fe01" />
+<img width="1910" height="965" alt="image" src="https://github.com/user-attachments/assets/a4ed4b06-63e6-4876-afff-6d87579dd77e" />
+
+
 ### Crear la base de datos info, y dentro de esa base la tabla personas, con id (serial) y nombre (varchar), agregar un par de registros en la tabla, obligatorio incluir su nombre.
 
 ## Desde el servidor postgresl
