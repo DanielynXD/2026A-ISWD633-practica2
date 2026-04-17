@@ -28,6 +28,8 @@ La figura presenta el esquema creado en donde los puertos son:
 ## Desde el servidor postgresl
 ### Acceder al servidor
 ### Conectarse a la base de datos info
-# COMPLETAR
+<img width="736" height="157" alt="image" src="https://github.com/user-attachments/assets/13b83b04-f8c9-449e-b7a8-3e76b2ae2f2e" />
+
 ### Realizar un select *from personas
-# AGREGAR UNA CAPTURA DE PANTALLA DEL RESULTADO
+<img width="398" height="184" alt="image" src="https://github.com/user-attachments/assets/2a0522b0-8a91-44ed-9c12-34826c6ed53d" />
+
