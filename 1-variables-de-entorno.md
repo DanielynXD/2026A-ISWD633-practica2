@@ -1,6 +1,6 @@
 # Variables de Entorno
 ### ¿Qué son las variables de entorno?
-# COMPLETAR
+"Ajustes" o valores dinámicos que se pasan al software dentro de un contenedor sin modificar el código fuente o la imagen
 
 ### Para crear un contenedor con variables de entorno
 
